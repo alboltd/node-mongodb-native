@@ -83,6 +83,7 @@
   "main": "lib/index.js",
   "name": "mongodb",
   "overrides": {
+    "@babel/core": "7.29.13",
     "@humanfs/node": "0.16.8",
     "brace-expansion@\u003e=1 \u003c2": "1.1.22",
     "brace-expansion@\u003e=2 \u003c3": "2.1.8",
