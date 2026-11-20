@@ -83,6 +83,10 @@
   "main": "lib/index.js",
   "name": "mongodb",
   "overrides": {
+    "brace-expansion@\u003e=1 \u003c2": "1.1.22",
+    "brace-expansion@\u003e=2 \u003c3": "2.1.8",
+    "brace-expansion@\u003e=3 \u003c4": "3.0.10",
+    "brace-expansion@\u003e=5 \u003c6": "5.0.13",
     "flatted": "3.4.4",
     "minimatch@\u003e=10 \u003c11": "10.2.6",
     "minimatch@\u003e=3 \u003c4": "3.1.5",
