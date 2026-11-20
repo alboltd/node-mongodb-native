@@ -180,5 +180,8 @@
       "module": "commonjs",
       "moduleResolution": "node"
     }
+  },
+  "overrides": {
+    "proxy-addr": "2.0.8"
   }
 }
