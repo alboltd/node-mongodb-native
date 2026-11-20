@@ -180,5 +180,8 @@
       "module": "commonjs",
       "moduleResolution": "node"
     }
+  },
+  "overrides": {
+    "flatted": "3.4.4"
   }
 }
