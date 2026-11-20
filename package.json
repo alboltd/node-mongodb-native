@@ -106,6 +106,7 @@
     "picomatch@\u003e=3 \u003c4": "3.0.2",
     "picomatch@\u003e=4 \u003c5": "4.0.7",
     "proxy-addr": "2.0.8",
+    "qs": "6.17.1",
     "serialize-javascript": "7.1.4",
     "uuid@\u003c11": "11.1.1",
     "uuid@\u003e=11 \u003c12": "11.1.1",
