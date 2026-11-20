@@ -91,7 +91,8 @@
     "minimatch@\u003e=7 \u003c8": "7.4.9",
     "minimatch@\u003e=8 \u003c9": "8.0.7",
     "minimatch@\u003e=9 \u003c10": "9.0.9",
-    "proxy-addr": "2.0.8"
+    "proxy-addr": "2.0.8",
+    "serialize-javascript": "7.1.4"
   },
   "peerDependencies": {
     "@aws-sdk/credential-providers": "^3.806.0",
