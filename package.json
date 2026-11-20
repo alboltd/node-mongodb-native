@@ -180,5 +180,8 @@
       "module": "commonjs",
       "moduleResolution": "node"
     }
+  },
+  "overrides": {
+    "serialize-javascript": "7.1.4"
   }
 }
