@@ -84,6 +84,7 @@
   "name": "mongodb",
   "overrides": {
     "@babel/core": "7.29.13",
+    "@humanfs/node": "0.16.8",
     "brace-expansion@\u003e=1 \u003c2": "1.1.22",
     "brace-expansion@\u003e=2 \u003c3": "2.1.8",
     "brace-expansion@\u003e=3 \u003c4": "3.0.10",
@@ -93,6 +94,7 @@
     "fast-uri@\u003e=3 \u003c4": "3.1.9",
     "fast-uri@\u003e=4 \u003c5": "4.2.3",
     "flatted": "3.4.4",
+    "ip-address": "10.7.6",
     "minimatch@\u003e=10 \u003c11": "10.2.6",
     "minimatch@\u003e=3 \u003c4": "3.1.5",
     "minimatch@\u003e=4 \u003c5": "4.2.6",
@@ -101,8 +103,16 @@
     "minimatch@\u003e=7 \u003c8": "7.4.9",
     "minimatch@\u003e=8 \u003c9": "8.0.7",
     "minimatch@\u003e=9 \u003c10": "9.0.9",
+    "picomatch@\u003e=2 \u003c3": "2.3.2",
+    "picomatch@\u003e=3 \u003c4": "3.0.2",
+    "picomatch@\u003e=4 \u003c5": "4.0.7",
     "proxy-addr": "2.0.8",
-    "serialize-javascript": "7.1.4"
+    "qs": "6.17.1",
+    "serialize-javascript": "7.1.4",
+    "uuid@\u003c11": "11.1.1",
+    "uuid@\u003e=11 \u003c12": "11.1.1",
+    "uuid@\u003e=12 \u003c13": "12.0.1",
+    "uuid@\u003e=13 \u003c14": "13.0.2"
   },
   "peerDependencies": {
     "@aws-sdk/credential-providers": "^3.806.0",
